@@ -45,18 +45,18 @@ class Header extends Component {
           </svg>
         </a>
         <Nav activeKey="/home" fill style={{ position: 'absolute', top: 10, right: 10 }}>
-          <Nav.Item> 
+          <Nav.Item>
             <LinkContainer to="/">
               <Nav.Link href="/">Home</Nav.Link>
             </LinkContainer>
           </Nav.Item>
-          <Nav.Item>        
+          <Nav.Item>
             <LinkContainer to="/about">
               <Nav.Link eventKey="about">About</Nav.Link>
             </LinkContainer>
           </Nav.Item>
           <Nav.Item>
-            <Switch 
+            <Switch
               checked={this.state.checked}
               onChange={this.onThemeSwitchChange}
               offColor="#baaa80"
@@ -109,7 +109,7 @@ class Header extends Component {
               <div className="title-container">
                 <HeaderTitleTypeAnimation />
               </div>
-              
+
             </div>
           </div>
         </div>
