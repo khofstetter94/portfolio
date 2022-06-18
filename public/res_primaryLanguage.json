@@ -11,11 +11,11 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Salmon Cookies",
+        "startDate": "2022",
+        "description": "View the salmon cookies sales from all locations! Add a location to update the data.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/SalmonCookiesScreenshot.jpeg",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
         "url": "",
@@ -35,11 +35,11 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Bus Mall",
+        "startDate": "2022",
+        "description": "Help decide which products will be displayed in the Bus Mall catalog! You will be presented with three items at a time, simply choose which one you would most likely purchase. After a certain amount of votes, you can click the 'view results' button to see a bar graph of the results!",
         "images": [
-          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/BusMallScreenshot.jpeg",
           "images/portfolio/photography/p2.jpg"
         ],
         "url": "https://github.com",
@@ -55,9 +55,9 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "301 Final Project",
+        "startDate": "2022",
+        "description": "Coming soon!",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
