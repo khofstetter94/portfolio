@@ -15,10 +15,9 @@
         "startDate": "2022",
         "description": "View the salmon cookies sales from all locations! Add a location to update the data.",
         "images": [
-          "images/portfolio/animal-shelter/SalmonCookiesScreenshot.jpeg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/salmoncookies/SalmonCookiesScreenshot.jpeg"
         ],
-        "url": "",
+        "url": "https://github.com/khofstetter94/cookie-stand",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -39,10 +38,9 @@
         "startDate": "2022",
         "description": "Help decide which products will be displayed in the Bus Mall catalog! You will be presented with three items at a time, simply choose which one you would most likely purchase. After a certain amount of votes, you can click the 'view results' button to see a bar graph of the results!",
         "images": [
-          "images/portfolio/photography/BusMallScreenshot.jpeg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/busmall/BusMallScreenshot.jpeg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/khofstetter94/bus-mall",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -51,6 +49,29 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Code Signs",
+        "startDate": "2022",
+        "description": "Enter your name and birthdate to find out what your astrology sign is! Then head to the compatibility page to see who you're most compatible with of those who have entered as well!",
+        "images": [
+          "images/portfolio/codesigns/CodeSignsPortfolio.jpg"
+        ],
+        "url": "https://github.com/FBKR-Coders/code-signs",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
           }
         ]
       },
